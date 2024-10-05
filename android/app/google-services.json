@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "216211514513",
+    "project_id": "tirocinio-progetto-ristorante",
+    "storage_bucket": "tirocinio-progetto-ristorante.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216211514513:android:c52068f2d6460bad890b30",
+        "android_client_info": {
+          "package_name": "com.projectrestaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-bM6z3Fr4Q-WMVcS4uht5dpE-FQ4vLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216211514513:android:73601f1dc759498d890b30",
+        "android_client_info": {
+          "package_name": "com.restaurant.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-bM6z3Fr4Q-WMVcS4uht5dpE-FQ4vLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216211514513:android:cf7639d8c444a60c890b30",
+        "android_client_info": {
+          "package_name": "com.restaurant.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-bM6z3Fr4Q-WMVcS4uht5dpE-FQ4vLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

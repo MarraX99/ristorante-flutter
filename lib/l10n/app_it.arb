@@ -1,0 +1,59 @@
+{
+  "appName": "Flutter Restaurant",
+  "titleHomePage": "Homepage Flutter Restaurant",
+  "titleSelectFoodType": "Scegli tipo di cibo",
+  "titleNewOrder": "Nuovo ordine",
+  "titleShoppingCart": "Carrello",
+  "titleSelectFood": "Scegli cibo",
+  "titleCustomizeFood": "Personalizza cibo",
+  "titleQuantity": "Quantità",
+  "titleCustomizeIngredients": "Personalizza ingredienti",
+  "titleAddNote": "Aggiungi nota",
+  "titleDeliveryDatetime": "Data ed ora di consegna",
+  "titleSave": "Salva",
+  "shoppingCartAddProducts": "Aggiungi {quantity} al carrello",
+  "@shoppingCartAddProducts": {
+    "placeholders": {
+      "quantity": {
+        "type": "int",
+        "example": 1
+      }
+    }
+  },
+  "shoppingCartExtraIngredient": "Extra {ingredientName}",
+  "@shoppingCartExtraIngredient": {
+    "placeholder": {
+      "ingredientName": {
+        "type": "String",
+        "example": "Extra Tomato sauce"
+      }
+    }
+  },
+  "ingredientUnitPrice": "+ {price} a pezzo",
+  "@ingredientUnitPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "productQuantity": "Quantità: {quantity}",
+  "@productQuantity": {
+    "placeholders": {
+      "quantity": {
+        "type": "int",
+        "example": 1
+      }
+    }
+  },
+  "orderOrderNow": "Ordina ora",
+  "placeholderAddNote": "Scrivi qui la tua nota",
+  "foodTypeNames": "{type, select, 0{Pizze classiche} 1{Pizze speciali} 2{Fritture} 3{Dolci} 4{Bevande} other{}}",
+  "@foodTypeNames": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "appName": "Flutter Restaurant",
+  "titleHomePage": "Flutter Restaurant Homepage",
+  "titleSelectFoodType": "Select food type",
+  "titleNewOrder": "New order",
+  "titleShoppingCart": "Shopping cart",
+  "titleSelectFood": "Select food",
+  "titleCustomizeFood": "Customize your food",
+  "titleQuantity": "Quantity",
+  "titleCustomizeIngredients": "Customize ingredients",
+  "titleAddNote": "Add note",
+  "titleDeliveryDatetime": "Delivery datetime",
+  "titleSave": "Save",
+  "shoppingCartAddProducts": "Add {quantity} into shopping cart",
+  "@shoppingCartAddProducts": {
+    "placeholders": {
+      "quantity": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "shoppingCartExtraIngredient": "Extra {ingredientName}",
+  "@shoppingCartExtraIngredient": {
+    "placeholder": {
+      "ingredientName": {
+        "type": "String",
+        "example": "Extra Tomato sauce"
+      }
+    }
+  },
+  "ingredientUnitPrice": "+ {price} per piece",
+  "@ingredientUnitPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "productQuantity": "Quantity: {quantity}",
+  "@productQuantity": {
+    "placeholders": {
+      "quantity": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "orderOrderNow": "Order now",
+  "placeholderAddNote": "Write your note here",
+  "foodTypeNames": "{type, select, 0{Classic pizzas} 1{Special Pizzas} 2{Fried} 3{Sweets} 4{Drinks} other{}}",
+  "@foodTypeNames": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "foodNames": "{id, select,0{Classic pizzas} 1{Special Pizzas} 2{Fried} 3{Sweets} 4{Drinks} other{}}",
+  "@foodNames": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+enum IngredientQuantity { removed, normal, extra }
